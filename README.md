@@ -1,2 +1,2 @@
-# koint-studies
+# koin-studies
 Koin Study cases
